@@ -13,6 +13,7 @@ per_last_page = 4
 current_page = 1
 start_time = 0
 end_time = 0
+# 伪装浏览器的行为
 my_header = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36',
     'Accept-Language':'zh-CN,zh;q=0.8',
